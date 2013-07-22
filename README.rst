@@ -7,6 +7,7 @@ xmms2notify.py
 --------------
 
 Notificaciones de reproduccion actual de xmms2 usando libnotify
- - TODO
 
-   * Automatizar el lanzamiento del proceso
+- TODO
+  
+  * Automatizar el lanzamiento del proceso
